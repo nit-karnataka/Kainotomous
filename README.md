@@ -8,7 +8,7 @@ The app provides various features like booking an appointment, setting reminders
 
 NOTE:- This app currently runs only on Android Pie 9.0
 To achieve this the different components used are: -
-1.	Google Cloud Translation API – for converting the Marathi requests into English for processing.
-2.	Dialogflow API – for seamless chatting framework using Machine Learning and Neural network.
-3.	FireBase API – for storage and retrieval of user information.
-4.	Android SDK – for the android application.
+1.	**Google Cloud Translation API** – for converting the Marathi requests into English for processing.
+2.	**Dialogflow API** – for seamless chatting framework using Machine Learning and Neural network.
+3.	**FireBase API** – for storage and retrieval of user information.
+4.	**Android SDK** – for the android application.

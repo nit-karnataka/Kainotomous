@@ -2,7 +2,8 @@
 
 Hrushi_VoiceBot
     
-Hrushi- The healthcare voice bot is a plugin on top of the ehealth Care system that is already developed by NCORD Health. The voice bot is used to interact with the users in voice format. This benefits the rural areas where the knowledge to use smartphone is limited.
+    
+**Hrushi- The healthcare voice bot** is a plugin on top of the ehealth Care system that is already developed by NCORD Health. The voice bot is used to interact with the users in voice format. This benefits the rural areas where the knowledge to use smartphone is limited.
 The app provides various features like booking an appointment, setting reminders and emergency assistance.
 
 NOTE:- This app currently runs only on Android Pie 9.0
